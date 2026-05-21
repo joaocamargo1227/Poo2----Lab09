@@ -1,0 +1,1 @@
+[ERROR] Conexão recusada pelo servidor de banco de dados.
